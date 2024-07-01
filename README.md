@@ -1,4 +1,4 @@
-# 2048-Clone
+# 2048
 .This is a 2048 replica using java. The game 2048 is a puzzle video game where players slide tiles in a single-player setting. 
 
 .In the game of 2048, the goal is to manipulate numbered tiles on a grid by sliding them, 
